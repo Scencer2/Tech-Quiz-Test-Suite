@@ -4,7 +4,7 @@ This project takes a full-stack MERN quiz application where users can take the q
 ![image](https://github.com/user-attachments/assets/352aa3a2-9931-4bb0-9a15-8a54526067b4)
 
 ## What’s Tested
-Component Tests
+# Component Tests
 
 Renders and starts the quiz
 
@@ -14,7 +14,7 @@ Displays final score
 
 Can restart the quiz
 
-E2E Test
+# E2E Test
 
 Visits the live app
 
