@@ -16,22 +16,15 @@ This project takes a full-stack MERN quiz application where users can take the q
 
 ## What’s Tested
 ### Component Tests
-
-Renders and starts the quiz
-
-Shows questions and answers
-
-Displays final score
-
-Can restart the quiz
+- Renders and starts the quiz
+- Shows questions and answers
+- Displays final score
+- Can restart the quiz
 
 ### E2E Test
-
-Visits the live app
-
-Takes all 10 questions
-
-Confirms score and restart
+- Visits the live app
+- Takes all 10 questions
+- Confirms score and restart
 
 ## Video Demo
 https://drive.google.com/file/d/1c_1Pjwq9eZkyCBe67RBCd_BVyGbyNacg/view?usp=sharing
