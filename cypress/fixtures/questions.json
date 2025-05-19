@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "answers": [
+      { "text": "Cascading Style Sheets", "isCorrect": true },
+      { "text": "Customer Service and Support", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answers": [
+      { "text": "Mount Everest", "isCorrect": true },
+      { "text": "K2", "isCorrect": false }
+    ]
+  }
+]

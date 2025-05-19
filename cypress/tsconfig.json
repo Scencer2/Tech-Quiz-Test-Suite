@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "types": ["cypress"],
+    "isolatedModules": false,
+    "allowJs": true,
+    "baseUrl": "../",
+    "noEmit": true
+  },
+  "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"]
+}
+
