@@ -4,13 +4,13 @@ This project takes a full-stack MERN quiz application where users can take the q
 ![image](https://github.com/user-attachments/assets/352aa3a2-9931-4bb0-9a15-8a54526067b4)
 
 ## Technologies
-React
-Node.js
-Express
-MongoDB
-Cypress
-Vite
-TypeScript
+- React
+- Node.js
+- Express
+- MongoDB
+- Cypress
+- Vite
+- TypeScript
 
 
 
